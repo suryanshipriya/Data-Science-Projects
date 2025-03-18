@@ -7,5 +7,8 @@ This repository contains my **Data Science projects**, showcasing my expertise i
 
 ## Projects  
 1. **[Data Cleaning on Cafe Data](https://github.com/suryanshipriya/Data-Science-Projects/tree/main/Data%20Cleaning%20Project)**  
-   **Description:** This is a data cleaning project on a Kaggle dataset of cafe sales.  
+   - **Description:** This is a data cleaning project on a Kaggle dataset of cafe sales.
+   - **Content:** 1. Python Code for data cleaning with intuition behind every step.
+                  2. PostgreSQL queries for the same data cleaning steps as done in python.
+                  3. .csv file of the dataset. 
 
