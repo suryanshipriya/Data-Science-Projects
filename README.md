@@ -10,5 +10,12 @@ This repository contains my **Data Science projects**, showcasing my expertise i
    - **Description:** This is a data cleaning project on a Kaggle dataset of cafe sales.
    - **Content:** 1. Python Code for data cleaning with intuition behind every step.
                   2. PostgreSQL queries for the same data cleaning steps as done in python.
-                  3. .csv file of the dataset. 
+                  3. .csv file of the dataset.
+     
+2. **[Dailogue Recognition Project](https://github.com/suryanshipriya/Data-Science-Projects/tree/main/Dialogue%20Recognition%20Project)**  
+   - **Description:** This is a dialogue recognition project on a Kaggle dataset of FRIENDS TV Series script dataset.
+   - **Content:** 1. Python Jupyter Notebook Project - Used NLP for text preprocessing and Vectorization. Performed models like logistic regression, xgboost, svm and more. Accuracy is < 30% in all the models.
+                  2. .csv file of the dataset
+     
+
 
